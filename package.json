@@ -1,7 +1,7 @@
 {
   "name": "ydkjs-condenser",
   "version": "1.0.0",
-  "description": "condensing JS fundamental concepts from books",
+  "description": "condensing JS fundamental concepts from books, complete credit for content goes to Paul Simpson and his book series at https://github.com/getify/You-Dont-Know-JS",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/kloo012/ydkjs-condenser/issues"
   },
-  "homepage": "https://github.com/kloo012/ydkjs-condenser#readme"
+  "homepage": "https://github.com/kloo012/ydkjs-condenser#readme",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-rename": "^1.2.2",
+    "run-sequence": "^1.2.2"
+  }
 }
