@@ -1,0 +1,24 @@
+{
+  "name": "ydkjs-condenser",
+  "version": "1.0.0",
+  "description": "condensing JS fundamental concepts from books",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kloo012/ydkjs-condenser.git"
+  },
+  "keywords": [
+    "learning",
+    "tool",
+    "JS"
+  ],
+  "author": "Kara Loo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kloo012/ydkjs-condenser/issues"
+  },
+  "homepage": "https://github.com/kloo012/ydkjs-condenser#readme"
+}
